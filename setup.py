@@ -14,5 +14,7 @@ setup(
         "starlette==0.*",
         "uvloop==0.*",
         "uvicorn==0.*",
+        "rfc3986==1.*",
+        "idna==2.*"
     ],
 )
